@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+I'm Weronika Puchała and I'm a PhD candidate in IBB PAS in Warsaw, Poland.
+
+🔭 I’m currently working on the new version of [HaDeX](https://hadex.mslab-ibb.pl/), the novel tool for visualization of data from HDX-MS experiments. I'm the creator and maintainer of the HaDeX package, available on CRAN. The main idea is described in our [article](https://academic.oup.com/bioinformatics/article/36/16/4516/5862011?login=true). 
+
+
 <!--
 **werpuc/werpuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
